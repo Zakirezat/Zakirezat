@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zakirezat
 - 👀 I’m interested in smart farming and protected horticulture
 - 🌱 I’m currently learning Effect of thermal environment on greenhouse crop production 
-- 💞️ I’m looking to collaborate on controlled environment agriculture and agricultural buildings 
+- 💞️ I’m looking to collaborate on controlled environment agriculture and agricultural buildings projects
 - 📫 How to reach me~ Kyungpook National University daegu, republic of korea 
 
 <!---
